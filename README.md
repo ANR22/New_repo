@@ -1,21 +1,8 @@
-# New_repo
-My first repository
-# header
-* amgoh
-* meg
-- usha
-## header1
-### header2
-*ammm*
-**ammm**
-```python
-print("hello world")
-```
+Implementation of Logistic Regresion from Scratch using Python and used it to predict the sentiment of tweets.
 
-# how to run code
-* ```python
-    python first.py
-    ```
-* [Google](https://www.google.com/)
-
-Added this from my local computer
+Learning Outcomes:
+- Data Preproccessing in NLP
+- Building Frequency Tables
+- Sigmoid Function
+- Cost Function for LR
+- Error Analysis
